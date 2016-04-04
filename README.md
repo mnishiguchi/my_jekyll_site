@@ -54,6 +54,13 @@ gem cleanup
 bundle exec jekyll serve here
 ```
 
+### [Jekyll serve didnt work: It looks like you don't have pygments or one of its dependencies installed](http://stackoverflow.com/a/33440992/3837223)
+
+```rb
+# Gemfile
+gem 'pygments.rb'
+```
+
 ==
 
 ## [kramdown](http://kramdown.gettalong.org/)
