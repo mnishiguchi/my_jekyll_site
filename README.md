@@ -1,10 +1,13 @@
 # My Jekyll site
+My blog site powered by [Jekyll](https://jekyllrb.com/)
 
-- My blog site powered by [Jekyll](https://jekyllrb.com/)
-- https://scotch.io/tutorials/getting-started-with-jekyll-plus-a-free-bootstrap-3-starter-theme
-- https://github.com/scotch-io/scotch-io.github.io
+## Reference
+- [Getting Started with Jekyll](https://scotch.io/tutorials/getting-started-with-jekyll-plus-a-free-bootstrap-3-starter-theme) by Scotch
 - [Is Jekyll Better Than Joomla! and WordPress?](http://digitalshore.io/jekyll-better-choice-than-joomla-wordpress/)
+- [Make a Static Website with Jekyll](https://www.taniarascia.com/make-a-static-website-with-jekyll/) by Tania Rascia
+- [How I Created a Beautiful and Minimal Blog Using Jekyll, Github Pages, and poole](http://joshualande.com/jekyll-github-pages-poole/) by Joshua Lande
 - [Codrops](http://tympanus.net/codrops/) - Ideas for UI
+- [Using a custom domain with GitHub Pages](https://help.github.com/articles/using-a-custom-domain-with-github-pages/)
 
 ==
 
